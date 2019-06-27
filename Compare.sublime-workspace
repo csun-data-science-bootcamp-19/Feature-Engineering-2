@@ -1,0 +1,318 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"confidInput"
+			],
+			[
+				"cond",
+				"confidInput"
+			],
+			[
+				"conf",
+				"confidInput"
+			],
+			[
+				"camera",
+				"cameraChoice"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Train.txt",
+			"settings":
+			{
+				"buffer_size": 5475,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "['MSSubClass',"
+			}
+		},
+		{
+			"file": "test.txt",
+			"settings":
+			{
+				"buffer_size": 5836,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "['MSSubClass',"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/krist/OneDrive/Feature-Engineering-2/Compare.sublime-project",
+		"/C/Users/krist/OneDrive/Feature-Engineering-2/.gitignore",
+		"/C/Users/krist/Documents/ml-agents/ml-agents-envs/setup.py",
+		"/C/Users/krist/Documents/ml-agents/ml-agents/setup.py",
+		"/C/Users/krist/OneDrive/Team-3/README.md",
+		"/C/Users/krist/OneDrive/Team-3/.gitignore",
+		"/C/Users/krist/Documents/comp496ml/yolo/pytorch-yolo-v3/cam_demo.py",
+		"/C/Users/krist/Documents/comp496ml/yolo/pytorch-yolo-v3/data/coco.names",
+		"/C/Users/krist/OneDrive/Downloads/hello.sh",
+		"/C/Users/krist/Desktop/LICENSE",
+		"/C/Users/krist/Desktop/test2.sh",
+		"/C/Users/krist/Box Sync/2018-2019/Math 341/R-stuff/Textbook Data/Lab1_Data.csv",
+		"/C/Users/krist/Documents/comp496ml/yolo/pytorch-yolo-v3/data/voc.names",
+		"/C/Users/krist/Documents/comp496ml/yolo/pytorch-yolo-v3/README.md",
+		"/C/Users/krist/OneDrive/Downloads/panoptic_annotations_trainval2017/annotations/panoptic_val2017.json",
+		"/C/Users/krist/OneDrive/Downloads/panoptic_annotations_trainval2017/annotations/panoptic_train2017.json",
+		"/C/Users/krist/Documents/comp496ml/yolo/pytorch-yolo-v3/cfg/coco.data",
+		"/C/Users/krist/Documents/comp496ml/yolo/pytorch-yolo-v3/bbox.py",
+		"/C/Users/krist/Documents/comp496ml/yolo/pytorch-yolo-v3/darknet.py",
+		"/C/Users/krist/Documents/comp496ml/yolo/pytorch-yolo-v3/yolov3.weights",
+		"/C/Users/krist/Documents/yolo/pytorch-yolo-v3/cam_demo.py",
+		"/C/Users/krist/Documents/Project_Nexus/.gitignore",
+		"/C/Users/krist/Documents/comp496ml/yolo/pytorch-yolo-v3/__init__.py",
+		"/C/Users/krist/Documents/comp496ml/README.md",
+		"/C/Users/krist/Documents/comp496ml/yolo/pytorch-yolo-v3/cfg/yolov3.cfg",
+		"/C/Users/krist/Documents/comp496ml/yolo/pytorch-yolo-v3/cfg/yolo.cfg",
+		"/C/Users/krist/Documents/comp496ml/.gitignore",
+		"/C/Users/krist/Box Sync/2016-2017/Comp 122/Project 3/proj3.s",
+		"/C/Users/krist/Box Sync/2017-2018/Comp 333/Project 4/Project4.pl",
+		"/C/Users/krist/Box Sync/Python/goog.py",
+		"/C/Users/krist/Box Sync/Python/GOOG1/venv/First.py",
+		"/C/Users/krist/Documents/Project_Nexus/UnityProject/Assets/Scripts/Base/Entities/Characters/AbstractCharacter.cs",
+		"/C/Users/krist/Box Sync/2016-2017/Comp 122/Hello_World.s",
+		"/C/Users/krist/Documents/Project_Nexus/UnityProject/Assets/Scenes/Main Menu.unity",
+		"/C/Users/krist/Documents/Project_Nexus/UnityProject/Assets/Data/Entities/Items/Weapons/Default Standard Attack.asset",
+		"/D/SteamLibrary/steamapps/appmanifest_731490.acf",
+		"/D/SteamLibrary/steamapps/appmanifest_230410.acf",
+		"/D/SteamLibrary/steamapps/appmanifest_228400.acf",
+		"/D/SteamLibrary/steamapps/appmanifest_502500.acf",
+		"/E/.Spotlight-V100/VolumeConfiguration.plist",
+		"/E/.Spotlight-V100/Store-V1/VolumeConfig.plist",
+		"/C/Users/krist/Box Sync/2018-2019/Comp 585/Project 1 Submission/src/Calculations.java",
+		"/C/Users/krist/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/joshuakristanto/.bash_history"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"1st",
+			"liv",
+			"GarageYr",
+			"Gara",
+			"Fence",
+			"\"NA\"",
+			"NA",
+			"NaN",
+			"NAn",
+			"lamp",
+			"table",
+			"confid",
+			"orig_im",
+			"path",
+			"cv2",
+			"lower"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Train.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5475,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5475,
+								5475
+							]
+						],
+						"settings":
+						{
+							"auto_name": "['MSSubClass',",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6543.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5836,
+								5836
+							]
+						],
+						"settings":
+						{
+							"auto_name": "['MSSubClass',",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6971.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Compare.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
