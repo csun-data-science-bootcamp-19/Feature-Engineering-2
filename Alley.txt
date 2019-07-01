@@ -1,0 +1,16 @@
+Alley
+BsmtQual
+BsmtCond
+BsmtFinType1
+BsmtFinType2
+FireplaceQu
+GarageType
+GarageQual
+GarageCond
+PoolQC
+Fence
+MiscFeature
+#Drop
+1stFirstSF
+GarageYrBlt
+GarageYear
